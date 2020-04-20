@@ -21,5 +21,5 @@ attr_accessor :name
       puts dog.name
   end
   
-  def self.clear_all
+
     
