@@ -20,5 +20,7 @@ attr_accessor :name
     @@all.each do |dog|
       puts dog.name
   end
-
+  
+  def self.clear_all
+    
 end
