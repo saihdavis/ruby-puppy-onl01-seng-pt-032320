@@ -18,6 +18,6 @@ attr_accessor :name
   
   def self.print_all
     @@all.each do |dog|
-      puts 
+      puts dog
 
 end
