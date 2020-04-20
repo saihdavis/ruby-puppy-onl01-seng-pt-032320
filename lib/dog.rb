@@ -16,7 +16,7 @@ attr_accessor :name
     @@all
   end
   
-    @@all << self 
+    
 end
 
 end
