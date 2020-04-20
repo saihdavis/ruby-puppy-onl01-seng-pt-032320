@@ -1,3 +1,4 @@
+require 
 class Dog 
   
 attr_accessor :name
