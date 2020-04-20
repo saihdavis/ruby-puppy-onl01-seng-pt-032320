@@ -9,7 +9,8 @@ attr_accessor :name
   end
 
   def save
-    
+    self << @@all
+  end
     
   def self.all
     @@all
