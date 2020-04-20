@@ -12,6 +12,7 @@ attr_accessor :name
 
   def save
     @@all << self
+    binding.pry 
   end
     
   def self.all
